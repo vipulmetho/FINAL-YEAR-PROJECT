@@ -86,16 +86,6 @@ A browser tab will open automatically at `http://localhost:8501`
 
 ---
 
-## Viva Explanation Points
-
-- **Why Logistic Regression?** Simple, fast, and works well for text classification
-- **Why TF-IDF?** Converts words to numbers, gives more weight to rare/important words
-- **Preprocessing:** Lowercasing and removing special characters reduces noise
-- **Accuracy:** Typically 97–99% on the SMS Spam dataset
-- **Pickle files:** Used to save and reload the trained model without retraining
-
----
-
 ## Dataset
 
 SMS Spam Collection Dataset — available on Kaggle:
